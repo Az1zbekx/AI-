@@ -1,4 +1,7 @@
 n = int(input("Butun son kiriting: "))
-print(n % 2 == 0)
+if n % 2 == 0:
+    print("Siz kiritgan son juft")
+else:
+    print("Siz kiritgan son toq")
 
 
