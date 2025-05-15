@@ -1,0 +1,5 @@
+print("Ismingiz nima?")
+n = input()
+print("Nechanchi yili tug'ilgansiz?")
+m = int(input())
+print(f"{n.capitalize()} sizning yoshingiz {2025-m} da")
