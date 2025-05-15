@@ -1,6 +1,6 @@
 n = input()
 m = input()
-if len(n) == len(m):
-    print("Bu 2 qator uzunligi teng")
+if n == m:
+    print("Bu 2 so'z teng")
 else:
-    print("Bu 2 qator uzunligi teng emas")
+    print("Bu 2 so'z teng emas")
